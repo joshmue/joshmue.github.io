@@ -1,0 +1,9 @@
+baseURL: https://joshmue.github.io/
+languageCode: en-us
+title: joshmue's 📚
+
+theme: PaperMod
+params:
+  homeInfoParams:
+    Title: joshmue's 📚
+    Content: 'Some musings about some tech topics'
